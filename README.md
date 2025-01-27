@@ -1,1 +1,2 @@
-# OOP2-Assignment
+# OOP2-Assignment 
+# Author Philip Herweling
