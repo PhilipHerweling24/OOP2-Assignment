@@ -11,6 +11,11 @@ public record Workout(String type, Duration duration, double calsBurned, LocalDa
 	public String formattedWorkoutDate() {
 		return workoutDate.format(FORMATTER);
 	}
+
+	//Method to determine if a workout was long or not
+	public boolean isLongWorkout(){
+		return duration.toMinutes() > 60;
+	}
 	
 
 }

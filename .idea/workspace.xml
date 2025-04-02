@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea14c410-e0c7-4797-ae03-073358f0cd35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment Docs/Write_Up.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment Docs/Write_Up.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FitnessTracker/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/FitnessTracker/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FitnessTracker/src/StrengthGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/FitnessTracker/src/StrengthGoal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FitnessTracker/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/FitnessTracker/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FitnessTracker/src/WeightLossGoal.java" beforeDir="false" afterPath="$PROJECT_DIR$/FitnessTracker/src/WeightLossGoal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +24,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/miggy/OneDrive/Documents/1 Masters/Semester 2/OOP2/Assignment/OOP2-Assignment",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/miggy/OneDrive/Documents/1 Masters/Semester 2/OOP2/Assignment/OOP2-Assignment&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,6 +42,11 @@
       <option name="presentableId" value="Default" />
       <updated>1740999570061</updated>
       <workItem from="1740999571192" duration="36000" />
+      <workItem from="1741025732785" duration="92000" />
+      <workItem from="1741441001153" duration="10000" />
+      <workItem from="1741442439551" duration="16000" />
+      <workItem from="1742816392541" duration="83000" />
+      <workItem from="1742816486069" duration="8000" />
     </task>
     <servers />
   </component>
